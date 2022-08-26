@@ -5,3 +5,6 @@
 		animation.js 游戏动画逻辑
 		main.js 游戏主逻辑
 		game.js 游戏交互逻辑
+
+预览地址
+https://13982720426.github.io/Web-version-of-2048-game/2048.html
