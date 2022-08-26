@@ -7,4 +7,4 @@
 		game.js 游戏交互逻辑
 
 预览地址
-https://13982720426.github.io/Web-version-of-2048-game/2048.html
+https://13982720426.github.io/Web-version-of-2048-game/index.html
